@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[openBrowser]]>
+    </line>
+    <line>
+      <![CDATA[login]]>
+    </line>
+    <line>
+      <![CDATA[UserPage]]>
+    </line>
+    <line>
+      <![CDATA[logout]]>
+    </line>
+    <line>
+      <![CDATA[close browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-08-12T18:00:45 IST" name="Default suite" finished-at="2024-08-12T18:01:18 IST" duration-ms="32927">
+    <groups>
+    </groups>
+    <test started-at="2024-08-12T18:00:45 IST" name="Default test" finished-at="2024-08-12T18:01:18 IST" duration-ms="32927">
+      <class name="com.vaia.testscript.TestScript">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.vaia.testscript.TestScript@434a63ab]" started-at="2024-08-12T18:00:45 IST" name="openBrowser" finished-at="2024-08-12T18:00:46 IST" duration-ms="1143" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[openBrowser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.vaia.testscript.TestScript@434a63ab]" started-at="2024-08-12T18:00:46 IST" name="login" finished-at="2024-08-12T18:00:54 IST" duration-ms="8204" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[login]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="testUserPage()[pri:0, instance:com.vaia.testscript.TestScript@434a63ab]" started-at="2024-08-12T18:00:54 IST" name="testUserPage" finished-at="2024-08-12T18:01:17 IST" duration-ms="22741" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[UserPage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testUserPage -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.vaia.testscript.TestScript@434a63ab]" started-at="2024-08-12T18:01:17 IST" name="logout" finished-at="2024-08-12T18:01:18 IST" duration-ms="710" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.vaia.testscript.TestScript@434a63ab]" started-at="2024-08-12T18:01:18 IST" name="closeBrowser" finished-at="2024-08-12T18:01:18 IST" duration-ms="106" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[close browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.vaia.testscript.TestScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
