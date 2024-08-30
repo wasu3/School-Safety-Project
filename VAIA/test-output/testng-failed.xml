@@ -5,8 +5,8 @@
     <classes>
       <class name="com.vaia.testscript.TestScript">
         <methods>
+          <include name="testUserPage"/>
           <include name="closeBrowser"/>
-          <include name="testCustomerPage"/>
           <include name="login"/>
           <include name="logout"/>
           <include name="openBrowser"/>

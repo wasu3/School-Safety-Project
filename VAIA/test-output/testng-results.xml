@@ -8,7 +8,7 @@
       <![CDATA[login]]>
     </line>
     <line>
-      <![CDATA[UserPage]]>
+      <![CDATA[AlarmManagementPage]]>
     </line>
     <line>
       <![CDATA[logout]]>
@@ -17,40 +17,40 @@
       <![CDATA[close browser]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-08-13T16:32:28 IST" name="Default suite" finished-at="2024-08-13T16:33:02 IST" duration-ms="33407">
+  <suite started-at="2024-08-23T13:43:08 IST" name="Default suite" finished-at="2024-08-23T13:43:33 IST" duration-ms="24868">
     <groups>
     </groups>
-    <test started-at="2024-08-13T16:32:28 IST" name="Default test" finished-at="2024-08-13T16:33:02 IST" duration-ms="33407">
+    <test started-at="2024-08-23T13:43:08 IST" name="Default test" finished-at="2024-08-23T13:43:33 IST" duration-ms="24868">
       <class name="com.vaia.testscript.TestScript">
-        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.vaia.testscript.TestScript@2ea41516]" started-at="2024-08-13T16:32:28 IST" name="openBrowser" finished-at="2024-08-13T16:32:30 IST" duration-ms="1193" status="PASS">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.vaia.testscript.TestScript@434a63ab]" started-at="2024-08-23T13:43:08 IST" name="openBrowser" finished-at="2024-08-23T13:43:09 IST" duration-ms="1096" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[openBrowser]]>
             </line>
           </reporter-output>
         </test-method> <!-- openBrowser -->
-        <test-method is-config="true" signature="login()[pri:0, instance:com.vaia.testscript.TestScript@2ea41516]" started-at="2024-08-13T16:32:30 IST" name="login" finished-at="2024-08-13T16:32:38 IST" duration-ms="8826" status="PASS">
+        <test-method is-config="true" signature="login()[pri:0, instance:com.vaia.testscript.TestScript@434a63ab]" started-at="2024-08-23T13:43:09 IST" name="login" finished-at="2024-08-23T13:43:18 IST" duration-ms="8016" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[login]]>
             </line>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="testUserPage()[pri:0, instance:com.vaia.testscript.TestScript@2ea41516]" started-at="2024-08-13T16:32:38 IST" name="testUserPage" finished-at="2024-08-13T16:33:01 IST" duration-ms="22609" status="PASS">
+        <test-method signature="testAlarmManagementPage()[pri:0, instance:com.vaia.testscript.TestScript@434a63ab]" started-at="2024-08-23T13:43:18 IST" name="testAlarmManagementPage" finished-at="2024-08-23T13:43:33 IST" duration-ms="15305" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[UserPage]]>
+              <![CDATA[AlarmManagementPage]]>
             </line>
           </reporter-output>
-        </test-method> <!-- testUserPage -->
-        <test-method is-config="true" signature="logout()[pri:0, instance:com.vaia.testscript.TestScript@2ea41516]" started-at="2024-08-13T16:33:01 IST" name="logout" finished-at="2024-08-13T16:33:02 IST" duration-ms="652" status="PASS">
+        </test-method> <!-- testAlarmManagementPage -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.vaia.testscript.TestScript@434a63ab]" started-at="2024-08-23T13:43:33 IST" name="logout" finished-at="2024-08-23T13:43:33 IST" duration-ms="311" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[logout]]>
             </line>
           </reporter-output>
         </test-method> <!-- logout -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.vaia.testscript.TestScript@2ea41516]" started-at="2024-08-13T16:33:02 IST" name="closeBrowser" finished-at="2024-08-13T16:33:02 IST" duration-ms="112" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.vaia.testscript.TestScript@434a63ab]" started-at="2024-08-23T13:43:33 IST" name="closeBrowser" finished-at="2024-08-23T13:43:33 IST" duration-ms="116" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[close browser]]>
